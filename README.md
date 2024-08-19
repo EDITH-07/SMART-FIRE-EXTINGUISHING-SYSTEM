@@ -1,3 +1,10 @@
+ [![SFES WORKING VIDEO](https://img.youtube.com/vi/PjQ00xdK9GM/0.jpg)](https://www.youtube.com/watch?v=PjQ00xdK9GM)
+
+
+
+
+
+
 The project introduces an advanced fire detection and suppression system that incorporates computer vision, machine learning, and robotics.
 The primary goal of this system is to enhance fire prevention and minimize the damage caused by fires through early detection and rapid suppression.
 
@@ -17,4 +24,4 @@ Its precision, effectiveness, and adaptability make it a notable advancement in 
 As technology continues to evolve in this field, it is anticipated that further improvements will be achieved, ultimately contributing to more secure and resilient communities.
 
 
- [![SFES WORKING VIDEO](https://img.youtube.com/vi/PjQ00xdK9GM/0.jpg)](https://www.youtube.com/watch?v=PjQ00xdK9GM)
+
