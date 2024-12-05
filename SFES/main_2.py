@@ -1,12 +1,10 @@
 from time import sleep
 import RPi.GPIO as GPIO
 import time
-
 #########CV2###########
 from ultralytics import YOLO
 import cv2
 import math
-import json
 import numpy as np
 
 # IP camera stream URL
@@ -145,7 +143,7 @@ elif(avg_x==400):
     a=100
 elif(avg_x<=600):
     if(avg_x<=450):
-        a=112.5
+        a=112.52
     elif(avg_x<=500):
         a=125
 elif(avg_x<=550):
@@ -274,7 +272,7 @@ try:
 finally:
     print(" ")
 
-# Reverse the direction
+# Reverse the directions
 GPIO.output(DIR, not GPIO.input(DIR))
 GPIO.output(DIRI, not GPIO.input(DIRI))
 print('Reversing Direction')
